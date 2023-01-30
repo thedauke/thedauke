@@ -7,7 +7,7 @@
       <br><em>learning new things</em> and create cool stuff from it.
     <br>
     <!--<img src="https://github.com/thedauke/thedauke/blob/master/tenor.gif" width="498px" height="403px" align="center">-->
-    <img src="https://github.com/thedauke/thedauke/blob/master/opihomm-funny.gif" width="403px" height="498px" align="center">
+    <img src="https://github.com/thedauke/thedauke/blob/master/opihomm-funny.gif" width="403px" height="408px" align="center">
     <br><br>:pizza: Take a look at my stats :P<br><br>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=thedauke&&show_icons=true&&theme=tokyonight" />
   </samp>
